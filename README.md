@@ -27,6 +27,6 @@ Technologies used:
 
 `JWT` for signed token encryption
 
-`HttpOnly Cookie` as a more secured way to store user information
+`HttpOnly Cookie` as a more secure way to store user information
 
 `Middleware` for interception and page redirection
