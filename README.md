@@ -13,7 +13,8 @@ yarn run dev
 ## Learn More
 
 Technologies used:
-`Next js`
+
+`Next js` framework
 
 `TypeScript` as safety language
 
