@@ -14,7 +14,11 @@ yarn run dev
 
 Technologies used:
 `Next js`
+
 `TypeScript` as safety language
+
 `JWT` for signed token encryption
+
 `HttpOnly Cookie` as a more secured way to store user information
+
 `Middleware` for interception and page redirection
